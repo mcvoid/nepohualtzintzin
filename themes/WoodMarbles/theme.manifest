@@ -1,0 +1,9 @@
+# Stone Theme manifest
+primary.ones=ones
+primary.fives=fives
+secondary.ones=ones
+secondary.fives=fives
+tertiary.ones=ones
+tertiary.fives=fives
+backgrounds=backgrounds
+hitboxmodel=adjacent

@@ -1,0 +1,9 @@
+# Corn Theme manifest
+primary.ones=tertiary/ones
+primary.fives=tertiary/fives
+secondary.ones=secondary/ones
+secondary.fives=secondary/fives
+tertiary.ones=primary/ones
+tertiary.fives=primary/fives
+backgrounds=backgrounds
+hitboxmodel=overlap

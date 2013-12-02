@@ -1,0 +1,9 @@
+# Weird Theme manifest
+primary.ones=../Corn/primary/ones
+primary.fives=../Stone/primary/fives
+secondary.ones=../Plain/secondary/ones
+secondary.fives=../Corn/secondary/fives
+tertiary.ones=../Stone/tertiary/ones
+tertiary.fives=../Plain/tertiary/fives
+backgrounds=../WoodMarbles/backgrounds
+hitboxmodel=overlap

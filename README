@@ -1,0 +1,22 @@
+Nepohualtzintzin
+
+Installation instructions
+1. Unzip the entire contents of the zip file to its own folder.
+2. Ensure you have Java installed. Minimum version supported is 1.6.
+3. Double click nepohualtzintzin.jar.
+4. That's all there is to it!
+
+More information, including a user manual, newer versions, 
+a guide to making new themes, and a place to report bugs or 
+contact the developers, is available on the project web site at 
+http://code.google.com/p/nepohualtzintzin/
+
+Nepohualtzintzin is developed by the Javanauts, which consist of:
+Sean Wolcott (Scrum Master)
+Tim Brabant (Product Owner)
+Carvell Scott
+Ajibola Ayanwola
+
+This was created as a school project in the summer of 2012.
+It is released under an MIT license.
+For license information, please see license.txt

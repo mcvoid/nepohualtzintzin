@@ -1,0 +1,9 @@
+# Stone Theme manifest
+primary.ones=primary/ones
+primary.fives=primary/fives
+secondary.ones=secondary/ones
+secondary.fives=secondary/fives
+tertiary.ones=tertiary/ones
+tertiary.fives=tertiary/fives
+backgrounds=backgrounds
+hitboxmodel=overlap
